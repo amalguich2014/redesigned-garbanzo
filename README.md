@@ -1,58 +1,15 @@
-[register.html](https://github.com/user-attachments/files/25029492/register.html)
-[INDEX02.html](https://github.com/user-attachments/files/25029494/INDEX02.html)
-[thanks.html](https://github.com/user-attachments/files/25029497/thanks.html)
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>تم التسجيل بنجاح</title>
-    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
-    <style>
-        body {
-            font-family: 'Cairo', sans-serif;
-            background-color: #f3f4f6;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-        .message-container {
-            background: white;
-            padding: 40px;
-            border-radius: 20px;
-            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
-            text-align: center;
-            max-width: 400px;
-        }
-        .icon-success {
-            font-size: 60px;
-            color: #10b981;
-            margin-bottom: 20px;
-        }
-        h2 { color: #1e3a8a; margin-bottom: 10px; }
-        p { color: #6b7280; margin-bottom: 30px; }
-        .back-home {
-            text-decoration: none;
-            background: #1e3a8a;
-            color: white;
-            padding: 12px 25px;
-            border-radius: 10px;
-            font-weight: bold;
-            transition: 0.3s;
-        }
-        .back-home:hover { background: #3b82f6; }
-    </style>
-</head>
-<body>
-
-<div class="message-container">
-    <div class="icon-success">✔️</div>
-    <h2>تم استلام طلبك!</h2>
-    <p>شكراً لتسجيل فريقك. سيقوم فريقنا بمراجعة البيانات والتواصل معك عبر الواتساب قريباً.</p>
-    <a href="index.html" class="back-home">العودة للرئيسية</a>
-</div>
-
-</body>
-</html>
+[training_session.html](https://github.com/user-attachments/files/25029529/training_session.html)
+[thanks.html](https://github.com/user-attachments/files/25029530/thanks.html)[INDEX02.html](https://github.com/user-attachments/files/25029545/INDEX02.html)
+[login.html](https://github.com/user-attachments/files/25029544/login.html)
+[register.html](https://github.com/user-attachments/files/25029543/register.html)
+[Sanstitre.html](https://github.com/user-attachments/files/25029542/Sanstitre.html)
+[Sanstitre1.html](https://github.com/user-attachments/files/25029541/Sanstitre1.html)
+[Sanstitre2.html](https://github.com/user-attachments/files/25029540/Sanstitre2.html)
+[Sanstitre3.html](https://github.com/user-attachments/files/25029539/Sanstitre3.html)
+[Sanstitre4.html](https://github.com/user-attachments/files/25029538/Sanstitre4.html)
+[Sanstitre5.html](https://github.com/user-attachments/files/25029537/Sanstitre5.html)
+[Sanstitre6.html](https://github.com/user-attachments/files/25029535/Sanstitre6.html)
+[Sanstitre7.html](https://github.com/user-attachments/files/25029534/Sanstitre7.html)
+[Sanstitre8.html](https://github.com/user-attachments/files/25029533/Sanstitre8.html)
+[Sanstitre9.html](https://github.com/user-attachments/files/25029532/Sanstitre9.html)
+[Sanstitre11.html](https://github.com/user-attachments/files/25029531/Sanstitre11.html)
